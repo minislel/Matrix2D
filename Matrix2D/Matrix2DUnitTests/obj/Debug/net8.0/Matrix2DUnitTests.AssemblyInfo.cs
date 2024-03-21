@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Matrix2DUnitTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c77934d0ebe4da467c491f09d84e9570c6dfd0ac")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6dbf89777ddf445ed890958c6708ad569ac0fe94")]
 [assembly: System.Reflection.AssemblyProductAttribute("Matrix2DUnitTests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Matrix2DUnitTests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -76,7 +76,7 @@ namespace Matrix2DLib
         }
         public static Matrix2D operator *(Matrix2D m1, Matrix2D m2)
         {
-            return new Matrix2D(m1.A * m2.A, m1.B * m2.B, m1.C * m2.C, m1.D * m2.D);
+            return new Matrix2D(m1.A * m2.A + m1.B*m2.C, m1.A * m2.B+ m1.B*m2.D, m1.C * m2.A + m1.D*m2.C, m1.C * m2.B+m1.D*m2.D);
         }
         public static Matrix2D operator *(Matrix2D m, int k)
         {
@@ -90,14 +90,14 @@ namespace Matrix2DLib
         {
             return new Matrix2D(m.A * -1, m.B * -1, m.C * -1, m.D * -1);
         }
-        public Matrix2D Transpose(Matrix2D m)
+        public Matrix2D Transpose()
         {
-            return new Matrix2D(m.A, m.C, m.B, m.D);
+            return new Matrix2D(this.A, this.C, this.B, this.D);
         }
         public static int Determinant(Matrix2D m)
         { return m.A * m.D - m.B * m.C; }
-        public int Det(Matrix2D m)
-        { return m.A * m.D - m.B * m.C; }
+        public int Det()
+        { return this.A * this.D - this.B * this.C; }
         public static explicit operator int[,](Matrix2D m)
         {
             return new int[,] { { m.A, m.B }, { m.C, m.D } };

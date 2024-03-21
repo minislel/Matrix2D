@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "Matrix2DUnitTests\\UnitTest1.cs",
               "ToolTip": "C:\\Users\\SkutecznieUse\\Desktop\\studia\\Matrix2D\\Matrix2D\\Matrix2DUnitTests\\UnitTest1.cs",
               "RelativeToolTip": "Matrix2DUnitTests\\UnitTest1.cs",
-              "ViewState": "AQIAADUAAAAAAAAAAADwv0oAAAAAAAAA",
+              "ViewState": "AQIAAJ0AAAAAAAAAAAAnwLAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-21T20:46:33.575Z",
               "EditorCaption": ""
@@ -49,9 +49,10 @@
               "RelativeDocumentMoniker": "Matrix2DLib\\Matrix2DLib.cs",
               "ToolTip": "C:\\Users\\SkutecznieUse\\Desktop\\studia\\Matrix2D\\Matrix2D\\Matrix2DLib\\Matrix2DLib.cs",
               "RelativeToolTip": "Matrix2DLib\\Matrix2DLib.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAA8wC0AAAAiAAAA",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAMwGYAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T20:45:38.508Z"
+              "WhenOpened": "2024-03-21T20:45:38.508Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -63,7 +64,8 @@
               "RelativeToolTip": "ConsoleApp1\\Matrix2DConsoleApp.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-21T20:45:27.549Z"
+              "WhenOpened": "2024-03-21T20:45:27.549Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -75,7 +77,8 @@
               "RelativeToolTip": "ConsoleApp1\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T19:44:27.287Z"
+              "WhenOpened": "2024-03-21T19:44:27.287Z",
+              "EditorCaption": ""
             }
           ]
         }
