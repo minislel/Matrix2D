@@ -90,6 +90,14 @@ namespace Matrix2DConsoleApp
         {
             return new Matrix2D(m.A * -1, m.B * -1, m.C * -1, m.D * -1);
         }
+        public Matrix2D Transpose(Matrix2D m)
+        {
+            return new Matrix2D(m.A, m.C, m.B, m.D);
+        }
+        public static int Determinant(Matrix2D m)
+        { return m.A * m.D - m.B * m.C; }
+        public int Det(Matrix2D m)
+        { return m.A * m.D - m.B * m.C; }
 
 
     }
