@@ -1,0 +1,15 @@
+C:\Users\SkutecznieUse\Desktop\studia\Matrix2D\Matrix2D\ConsoleApp1\bin\Debug\net8.0\Matrix2DConsoleApp.exe
+C:\Users\SkutecznieUse\Desktop\studia\Matrix2D\Matrix2D\ConsoleApp1\bin\Debug\net8.0\Matrix2DConsoleApp.deps.json
+C:\Users\SkutecznieUse\Desktop\studia\Matrix2D\Matrix2D\ConsoleApp1\bin\Debug\net8.0\Matrix2DConsoleApp.runtimeconfig.json
+C:\Users\SkutecznieUse\Desktop\studia\Matrix2D\Matrix2D\ConsoleApp1\bin\Debug\net8.0\Matrix2DConsoleApp.dll
+C:\Users\SkutecznieUse\Desktop\studia\Matrix2D\Matrix2D\ConsoleApp1\bin\Debug\net8.0\Matrix2DConsoleApp.pdb
+C:\Users\SkutecznieUse\Desktop\studia\Matrix2D\Matrix2D\ConsoleApp1\obj\Debug\net8.0\Matrix2DConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SkutecznieUse\Desktop\studia\Matrix2D\Matrix2D\ConsoleApp1\obj\Debug\net8.0\Matrix2DConsoleApp.AssemblyInfoInputs.cache
+C:\Users\SkutecznieUse\Desktop\studia\Matrix2D\Matrix2D\ConsoleApp1\obj\Debug\net8.0\Matrix2DConsoleApp.AssemblyInfo.cs
+C:\Users\SkutecznieUse\Desktop\studia\Matrix2D\Matrix2D\ConsoleApp1\obj\Debug\net8.0\Matrix2DConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\SkutecznieUse\Desktop\studia\Matrix2D\Matrix2D\ConsoleApp1\obj\Debug\net8.0\Matrix2DConsoleApp.sourcelink.json
+C:\Users\SkutecznieUse\Desktop\studia\Matrix2D\Matrix2D\ConsoleApp1\obj\Debug\net8.0\Matrix2DConsoleApp.dll
+C:\Users\SkutecznieUse\Desktop\studia\Matrix2D\Matrix2D\ConsoleApp1\obj\Debug\net8.0\refint\Matrix2DConsoleApp.dll
+C:\Users\SkutecznieUse\Desktop\studia\Matrix2D\Matrix2D\ConsoleApp1\obj\Debug\net8.0\Matrix2DConsoleApp.pdb
+C:\Users\SkutecznieUse\Desktop\studia\Matrix2D\Matrix2D\ConsoleApp1\obj\Debug\net8.0\Matrix2DConsoleApp.genruntimeconfig.cache
+C:\Users\SkutecznieUse\Desktop\studia\Matrix2D\Matrix2D\ConsoleApp1\obj\Debug\net8.0\ref\Matrix2DConsoleApp.dll
