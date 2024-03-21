@@ -1,4 +1,5 @@
-﻿namespace ConsoleApp1
+﻿using Matrix2DLib;
+namespace ConsoleApp1
 {
     internal class Program
     {

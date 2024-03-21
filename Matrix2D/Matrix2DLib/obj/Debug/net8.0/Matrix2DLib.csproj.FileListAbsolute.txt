@@ -1,0 +1,12 @@
+C:\Users\SkutecznieUse\Desktop\studia\Matrix2D\Matrix2D\Matrix2DLib\bin\Debug\net8.0\Matrix2DLib.deps.json
+C:\Users\SkutecznieUse\Desktop\studia\Matrix2D\Matrix2D\Matrix2DLib\bin\Debug\net8.0\Matrix2DLib.dll
+C:\Users\SkutecznieUse\Desktop\studia\Matrix2D\Matrix2D\Matrix2DLib\bin\Debug\net8.0\Matrix2DLib.pdb
+C:\Users\SkutecznieUse\Desktop\studia\Matrix2D\Matrix2D\Matrix2DLib\obj\Debug\net8.0\Matrix2DLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SkutecznieUse\Desktop\studia\Matrix2D\Matrix2D\Matrix2DLib\obj\Debug\net8.0\Matrix2DLib.AssemblyInfoInputs.cache
+C:\Users\SkutecznieUse\Desktop\studia\Matrix2D\Matrix2D\Matrix2DLib\obj\Debug\net8.0\Matrix2DLib.AssemblyInfo.cs
+C:\Users\SkutecznieUse\Desktop\studia\Matrix2D\Matrix2D\Matrix2DLib\obj\Debug\net8.0\Matrix2DLib.csproj.CoreCompileInputs.cache
+C:\Users\SkutecznieUse\Desktop\studia\Matrix2D\Matrix2D\Matrix2DLib\obj\Debug\net8.0\Matrix2DLib.sourcelink.json
+C:\Users\SkutecznieUse\Desktop\studia\Matrix2D\Matrix2D\Matrix2DLib\obj\Debug\net8.0\Matrix2DLib.dll
+C:\Users\SkutecznieUse\Desktop\studia\Matrix2D\Matrix2D\Matrix2DLib\obj\Debug\net8.0\refint\Matrix2DLib.dll
+C:\Users\SkutecznieUse\Desktop\studia\Matrix2D\Matrix2D\Matrix2DLib\obj\Debug\net8.0\Matrix2DLib.pdb
+C:\Users\SkutecznieUse\Desktop\studia\Matrix2D\Matrix2D\Matrix2DLib\obj\Debug\net8.0\ref\Matrix2DLib.dll

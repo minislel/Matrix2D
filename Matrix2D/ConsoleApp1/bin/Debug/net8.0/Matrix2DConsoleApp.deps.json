@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v8.0": {
       "Matrix2DConsoleApp/1.0.0": {
+        "dependencies": {
+          "Matrix2DLib": "1.0.0"
+        },
         "runtime": {
           "Matrix2DConsoleApp.dll": {}
+        }
+      },
+      "Matrix2DLib/1.0.0": {
+        "runtime": {
+          "Matrix2DLib.dll": {}
         }
       }
     }
   },
   "libraries": {
     "Matrix2DConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Matrix2DLib/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

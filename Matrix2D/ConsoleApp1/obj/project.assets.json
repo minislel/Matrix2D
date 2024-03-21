@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "Matrix2DLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Matrix2DLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Matrix2DLib.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Matrix2DLib/1.0.0": {
+      "type": "project",
+      "path": "../Matrix2DLib/Matrix2DLib.csproj",
+      "msbuildProject": "../Matrix2DLib/Matrix2DLib.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "Matrix2DLib >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\SkutecznieUse\\.nuget\\packages\\": {},
@@ -39,7 +58,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\SkutecznieUse\\Desktop\\studia\\Matrix2D\\Matrix2D\\Matrix2DLib\\Matrix2DLib.csproj": {
+              "projectPath": "C:\\Users\\SkutecznieUse\\Desktop\\studia\\Matrix2D\\Matrix2D\\Matrix2DLib\\Matrix2DLib.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -13,3 +13,7 @@ C:\Users\SkutecznieUse\Desktop\studia\Matrix2D\Matrix2D\ConsoleApp1\obj\Debug\ne
 C:\Users\SkutecznieUse\Desktop\studia\Matrix2D\Matrix2D\ConsoleApp1\obj\Debug\net8.0\Matrix2DConsoleApp.pdb
 C:\Users\SkutecznieUse\Desktop\studia\Matrix2D\Matrix2D\ConsoleApp1\obj\Debug\net8.0\Matrix2DConsoleApp.genruntimeconfig.cache
 C:\Users\SkutecznieUse\Desktop\studia\Matrix2D\Matrix2D\ConsoleApp1\obj\Debug\net8.0\ref\Matrix2DConsoleApp.dll
+C:\Users\SkutecznieUse\Desktop\studia\Matrix2D\Matrix2D\ConsoleApp1\bin\Debug\net8.0\Matrix2DLib.dll
+C:\Users\SkutecznieUse\Desktop\studia\Matrix2D\Matrix2D\ConsoleApp1\bin\Debug\net8.0\Matrix2DLib.pdb
+C:\Users\SkutecznieUse\Desktop\studia\Matrix2D\Matrix2D\ConsoleApp1\obj\Debug\net8.0\Matrix2DConsoleApp.csproj.AssemblyReference.cache
+C:\Users\SkutecznieUse\Desktop\studia\Matrix2D\Matrix2D\ConsoleApp1\obj\Debug\net8.0\Matrix2D.761D7AE7.Up2Date

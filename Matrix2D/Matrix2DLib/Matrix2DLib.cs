@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Matrix2DConsoleApp
+namespace Matrix2DLib
 {
     public class Matrix2D : IEquatable<Matrix2D>
     {
@@ -27,7 +27,7 @@ namespace Matrix2DConsoleApp
             }
         }
 
-        public Matrix2D(int a, int b, int c, int d)
+        public Matrix2D(int a=1, int b = 0, int c = 0, int d = 1)
         {
             A = a;
             B = b;
@@ -43,7 +43,7 @@ namespace Matrix2DConsoleApp
         }
         public override string ToString()
         {
-            return $"[[{A}, {B}][{C}, {D}]]";
+            return $"[[{A}, {B}], [{C}, {D}]]";
         }
 
         public bool Equals(Matrix2D? other)
@@ -98,6 +98,29 @@ namespace Matrix2DConsoleApp
         { return m.A * m.D - m.B * m.C; }
         public int Det(Matrix2D m)
         { return m.A * m.D - m.B * m.C; }
+        public static explicit operator int[,](Matrix2D m)
+        {
+            return new int[,] { { m.A, m.B }, { m.C, m.D } };
+        }
+        public static Matrix2D Parse(string s)
+        {
+            s = s.Replace(" ", "");
+            if (s[0] != '[' || s[s.Length - 1] != ']')
+            {
+                throw new FormatException();
+            }
+            string[] strings = s.Split(",");
+            if (strings.Length != 4 ) 
+            {
+                throw new FormatException();
+            }
+            foreach (string s2 in strings) 
+            {
+                s2.Replace("[", "");
+                s2.Replace("]", "");
+            }
+            return new Matrix2D(int.Parse(strings[0]), int.Parse(strings[1]), int.Parse(strings[2]), int.Parse(strings[3]));
+        }
 
 
     }
