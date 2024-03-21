@@ -52,6 +52,30 @@ namespace Matrix2DUnitTests
         {
             Assert.AreEqual(expectedString, Matrix2D.Zero.ToString());
         }
+        [TestMethod]
+        [DataRow(1, 2, 3, 4, 1, 2, 3, 4)]
+        [DataRow(66, 43, 2, 0, 66, 43, 2, 0)]
+        [DataRow(1, 0, 0, 1, 1, 0, 0, 1)]
+        public void EqualsTestTrue(int a, int b, int c, int d, int e, int f, int g, int h)
+        { 
+            var m1 = new Matrix2D (a, b, c, d);
+            var m2 = new Matrix2D (e,f, g, h);
+            Assert.IsTrue (m1.Equals (m2));
+        }
+        [TestMethod]
+        [DataRow(1, 2, 3, 4, 1, 2, 6, 4)]
+        [DataRow(66, 43, 2, 0, 66, 44, 2, 0)]
+        [DataRow(1, 0, 0, 1, 1, 0, 3, 1)]
+        public void EqualsTestFalse(int a, int b, int c, int d, int e, int f, int g, int h)
+        {
+            var m1 = new Matrix2D(a, b, c, d);
+            var m2 = new Matrix2D(e, f, g, h);
+            Assert.IsFalse(m1.Equals(m2));
+        }
+
+
+
+
 
     }
 }

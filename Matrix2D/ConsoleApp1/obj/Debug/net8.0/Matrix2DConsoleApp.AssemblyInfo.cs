@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Matrix2DConsoleApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+38ee4efa733c367e440e39685f9937b7f4030f0a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c77934d0ebe4da467c491f09d84e9570c6dfd0ac")]
 [assembly: System.Reflection.AssemblyProductAttribute("Matrix2DConsoleApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Matrix2DConsoleApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
