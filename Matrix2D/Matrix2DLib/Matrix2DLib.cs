@@ -107,12 +107,12 @@ namespace Matrix2DLib
             s = s.Replace(" ", "");
             if (s[0] != '[' || s[s.Length - 1] != ']')
             {
-                throw new FormatException();
+                throw new FormatException("[]");
             }
             string[] strings = s.Split(",");
             if (strings.Length != 4 ) 
             {
-                throw new FormatException();
+                throw new FormatException("no commas");
             }
             foreach (string s2 in strings) 
             {

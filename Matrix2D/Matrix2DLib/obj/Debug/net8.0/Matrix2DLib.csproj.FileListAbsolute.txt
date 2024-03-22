@@ -10,3 +10,15 @@ C:\Users\SkutecznieUse\Desktop\studia\Matrix2D\Matrix2D\Matrix2DLib\obj\Debug\ne
 C:\Users\SkutecznieUse\Desktop\studia\Matrix2D\Matrix2D\Matrix2DLib\obj\Debug\net8.0\refint\Matrix2DLib.dll
 C:\Users\SkutecznieUse\Desktop\studia\Matrix2D\Matrix2D\Matrix2DLib\obj\Debug\net8.0\Matrix2DLib.pdb
 C:\Users\SkutecznieUse\Desktop\studia\Matrix2D\Matrix2D\Matrix2DLib\obj\Debug\net8.0\ref\Matrix2DLib.dll
+D:\Users\marcin.swiderski\Desktop\Matrix2D\Matrix2D\Matrix2DLib\bin\Debug\net8.0\Matrix2DLib.deps.json
+D:\Users\marcin.swiderski\Desktop\Matrix2D\Matrix2D\Matrix2DLib\bin\Debug\net8.0\Matrix2DLib.dll
+D:\Users\marcin.swiderski\Desktop\Matrix2D\Matrix2D\Matrix2DLib\bin\Debug\net8.0\Matrix2DLib.pdb
+D:\Users\marcin.swiderski\Desktop\Matrix2D\Matrix2D\Matrix2DLib\obj\Debug\net8.0\Matrix2DLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\marcin.swiderski\Desktop\Matrix2D\Matrix2D\Matrix2DLib\obj\Debug\net8.0\Matrix2DLib.AssemblyInfoInputs.cache
+D:\Users\marcin.swiderski\Desktop\Matrix2D\Matrix2D\Matrix2DLib\obj\Debug\net8.0\Matrix2DLib.AssemblyInfo.cs
+D:\Users\marcin.swiderski\Desktop\Matrix2D\Matrix2D\Matrix2DLib\obj\Debug\net8.0\Matrix2DLib.csproj.CoreCompileInputs.cache
+D:\Users\marcin.swiderski\Desktop\Matrix2D\Matrix2D\Matrix2DLib\obj\Debug\net8.0\Matrix2DLib.sourcelink.json
+D:\Users\marcin.swiderski\Desktop\Matrix2D\Matrix2D\Matrix2DLib\obj\Debug\net8.0\Matrix2DLib.dll
+D:\Users\marcin.swiderski\Desktop\Matrix2D\Matrix2D\Matrix2DLib\obj\Debug\net8.0\refint\Matrix2DLib.dll
+D:\Users\marcin.swiderski\Desktop\Matrix2D\Matrix2D\Matrix2DLib\obj\Debug\net8.0\Matrix2DLib.pdb
+D:\Users\marcin.swiderski\Desktop\Matrix2D\Matrix2D\Matrix2DLib\obj\Debug\net8.0\ref\Matrix2DLib.dll

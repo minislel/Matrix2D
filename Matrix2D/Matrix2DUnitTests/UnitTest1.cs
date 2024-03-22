@@ -172,6 +172,14 @@ namespace Matrix2DUnitTests
             var expected = new int [,] { { a, b }, { c, d } };
             Assert.IsTrue(m2[0,0] == expected[0,0] && m2[0,1] == expected[0,1] && m2[1,0] == expected[1,0] && m2[1, 1] == expected[1, 1]);
         }
+        [TestMethod]
+        [DataRow(2, 1, 3, 2, "[[2, 1], [3, 2]]")]
+        public void ParseTest(int a, int b, int c, int d, string toParse)
+        {
+            var m1 = new Matrix2D(a, b, c, d);
+            var m2 = Matrix2D.Parse(toParse);
+            Assert.AreEqual(m1, m2);
+        }
 
 
 
