@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\marci\\OneDrive\\Pulpit\\projekty studia\\Matrix2D\\Matrix2D\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F538B18B-4D4F-4F74-B30B-0D82CC5C4A9D}|ConsoleApp1\\Matrix2DConsoleApp.csproj|c:\\users\\marci\\onedrive\\pulpit\\projekty studia\\matrix2d\\matrix2d\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F538B18B-4D4F-4F74-B30B-0D82CC5C4A9D}|ConsoleApp1\\Matrix2DConsoleApp.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E79FFCE3-94BD-46F2-8935-1AE15A3297F2}|Matrix2DLib\\Matrix2DLib.csproj|c:\\users\\marci\\onedrive\\pulpit\\projekty studia\\matrix2d\\matrix2d\\matrix2dlib\\matrix2dlib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E79FFCE3-94BD-46F2-8935-1AE15A3297F2}|Matrix2DLib\\Matrix2DLib.csproj|solutionrelative:matrix2dlib\\matrix2dlib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F538B18B-4D4F-4F74-B30B-0D82CC5C4A9D}|ConsoleApp1\\Matrix2DConsoleApp.csproj|c:\\users\\marci\\onedrive\\pulpit\\projekty studia\\matrix2d\\matrix2d\\consoleapp1\\matrix2dconsoleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{F538B18B-4D4F-4F74-B30B-0D82CC5C4A9D}|ConsoleApp1\\Matrix2DConsoleApp.csproj|solutionrelative:consoleapp1\\matrix2dconsoleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F538B18B-4D4F-4F74-B30B-0D82CC5C4A9D}|ConsoleApp1\\Matrix2DConsoleApp.csproj|c:\\users\\marci\\onedrive\\pulpit\\projekty studia\\matrix2d\\matrix2d\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F538B18B-4D4F-4F74-B30B-0D82CC5C4A9D}|ConsoleApp1\\Matrix2DConsoleApp.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,28 +30,27 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Matrix2DLib",
-              "DocumentMoniker": "C:\\Users\\marci\\OneDrive\\Pulpit\\projekty studia\\Matrix2D\\Matrix2D\\Matrix2DLib\\Matrix2DLib.csproj",
-              "RelativeDocumentMoniker": "Matrix2DLib\\Matrix2DLib.csproj",
-              "ToolTip": "C:\\Users\\marci\\OneDrive\\Pulpit\\projekty studia\\Matrix2D\\Matrix2D\\Matrix2DLib\\Matrix2DLib.csproj",
-              "RelativeToolTip": "Matrix2DLib\\Matrix2DLib.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-22T12:56:26.912Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "Matrix2DLib.csproj",
+              "DocumentMoniker": "C:\\Users\\marci\\OneDrive\\Pulpit\\projekty studia\\Matrix2D\\Matrix2D\\Matrix2DLib\\Matrix2DLib.csproj",
+              "RelativeDocumentMoniker": "Matrix2DLib\\Matrix2DLib.csproj",
+              "ToolTip": "C:\\Users\\marci\\OneDrive\\Pulpit\\projekty studia\\Matrix2D\\Matrix2D\\Matrix2DLib\\Matrix2DLib.csproj",
+              "RelativeToolTip": "Matrix2DLib\\Matrix2DLib.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-22T12:56:26.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "C:\\Users\\marci\\OneDrive\\Pulpit\\projekty studia\\Matrix2D\\Matrix2D\\Matrix2DUnitTests\\UnitTest1.cs",
               "RelativeDocumentMoniker": "Matrix2DUnitTests\\UnitTest1.cs",
@@ -59,12 +58,11 @@
               "RelativeToolTip": "Matrix2DUnitTests\\UnitTest1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAMEAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T20:46:33.575Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-21T20:46:33.575Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Matrix2DLib.cs",
               "DocumentMoniker": "C:\\Users\\marci\\OneDrive\\Pulpit\\projekty studia\\Matrix2D\\Matrix2D\\Matrix2DLib\\Matrix2DLib.cs",
               "RelativeDocumentMoniker": "Matrix2DLib\\Matrix2DLib.cs",
@@ -77,7 +75,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Matrix2DConsoleApp.csproj",
               "DocumentMoniker": "C:\\Users\\marci\\OneDrive\\Pulpit\\projekty studia\\Matrix2D\\Matrix2D\\ConsoleApp1\\Matrix2DConsoleApp.csproj",
               "RelativeDocumentMoniker": "ConsoleApp1\\Matrix2DConsoleApp.csproj",
@@ -85,18 +83,17 @@
               "RelativeToolTip": "ConsoleApp1\\Matrix2DConsoleApp.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-21T20:45:27.549Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-21T20:45:27.549Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\marci\\OneDrive\\Pulpit\\projekty studia\\Matrix2D\\Matrix2D\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
               "ToolTip": "C:\\Users\\marci\\OneDrive\\Pulpit\\projekty studia\\Matrix2D\\Matrix2D\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAvAAAA",
+              "ViewState": "AQIAADoAAAAAAAAAAAAYwE0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-21T19:44:27.287Z",
               "EditorCaption": ""
