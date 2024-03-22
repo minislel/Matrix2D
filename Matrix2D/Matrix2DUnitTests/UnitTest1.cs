@@ -174,23 +174,23 @@ namespace Matrix2DUnitTests
         }
         [TestMethod]
         [DataRow(2, 1, 3, 2, "[[2, 1], [3, 2]]")]
+        [DataRow(0,0,0,0, "[[0,0], [0,0]]")]
+        
+
         public void ParseTest(int a, int b, int c, int d, string toParse)
         {
             var m1 = new Matrix2D(a, b, c, d);
             var m2 = Matrix2D.Parse(toParse);
             Assert.AreEqual(m1, m2);
         }
-
-
-
-
-
-
-
-
-
-
-
-
+        [TestMethod]
+        [DataRow("[[0,0] [0,0]]")]
+        [DataRow("[[0,0 [0,0]]")]
+        [DataRow("[[0,0] [0,0]")]
+        [DataRow("[[0,0], 0,0]]")]
+        public void ParseTestException(string toParse)
+        {
+            Assert.ThrowsException <FormatException>(() => Matrix2D.Parse(toParse));
+        }
     }
 }

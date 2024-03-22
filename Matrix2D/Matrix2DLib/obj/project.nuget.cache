@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "CdnC9Pr343ZfuRzVzg8TPsNWaKDKfF0ScHW+Pqv3Ic8+nu/+yt7wvfIkQ2PKTj2Me3gaIL1ELQzokSKnxHlNUA==",
+  "dgSpecHash": "Ea3ohjYdytbOnmAOgnsLyqEWfhGlGSnPZkSnNi2a7/Ex3qCba5Rl5Nj+G7fOAzsXhd6fAQejfWdENSAaJp5jAA==",
   "success": true,
-  "projectFilePath": "D:\\Users\\marcin.swiderski\\Desktop\\Matrix2D\\Matrix2D\\Matrix2DLib\\Matrix2DLib.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\marci\\OneDrive\\Pulpit\\projekty studia\\Matrix2D\\Matrix2D\\Matrix2DLib\\Matrix2DLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marci\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

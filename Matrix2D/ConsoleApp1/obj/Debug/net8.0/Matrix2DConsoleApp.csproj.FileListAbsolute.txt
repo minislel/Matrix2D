@@ -36,3 +36,23 @@ D:\Users\marcin.swiderski\Desktop\Matrix2D\Matrix2D\ConsoleApp1\obj\Debug\net8.0
 D:\Users\marcin.swiderski\Desktop\Matrix2D\Matrix2D\ConsoleApp1\obj\Debug\net8.0\Matrix2DConsoleApp.pdb
 D:\Users\marcin.swiderski\Desktop\Matrix2D\Matrix2D\ConsoleApp1\obj\Debug\net8.0\Matrix2DConsoleApp.genruntimeconfig.cache
 D:\Users\marcin.swiderski\Desktop\Matrix2D\Matrix2D\ConsoleApp1\obj\Debug\net8.0\ref\Matrix2DConsoleApp.dll
+C:\Users\marci\OneDrive\Pulpit\projekty studia\Matrix2D\Matrix2D\ConsoleApp1\bin\Debug\net8.0\Matrix2DConsoleApp.exe
+C:\Users\marci\OneDrive\Pulpit\projekty studia\Matrix2D\Matrix2D\ConsoleApp1\bin\Debug\net8.0\Matrix2DConsoleApp.deps.json
+C:\Users\marci\OneDrive\Pulpit\projekty studia\Matrix2D\Matrix2D\ConsoleApp1\bin\Debug\net8.0\Matrix2DConsoleApp.runtimeconfig.json
+C:\Users\marci\OneDrive\Pulpit\projekty studia\Matrix2D\Matrix2D\ConsoleApp1\bin\Debug\net8.0\Matrix2DConsoleApp.dll
+C:\Users\marci\OneDrive\Pulpit\projekty studia\Matrix2D\Matrix2D\ConsoleApp1\bin\Debug\net8.0\Matrix2DConsoleApp.pdb
+C:\Users\marci\OneDrive\Pulpit\projekty studia\Matrix2D\Matrix2D\ConsoleApp1\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\marci\OneDrive\Pulpit\projekty studia\Matrix2D\Matrix2D\ConsoleApp1\bin\Debug\net8.0\Matrix2DLib.dll
+C:\Users\marci\OneDrive\Pulpit\projekty studia\Matrix2D\Matrix2D\ConsoleApp1\bin\Debug\net8.0\Matrix2DLib.pdb
+C:\Users\marci\OneDrive\Pulpit\projekty studia\Matrix2D\Matrix2D\ConsoleApp1\obj\Debug\net8.0\Matrix2DConsoleApp.csproj.AssemblyReference.cache
+C:\Users\marci\OneDrive\Pulpit\projekty studia\Matrix2D\Matrix2D\ConsoleApp1\obj\Debug\net8.0\Matrix2DConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marci\OneDrive\Pulpit\projekty studia\Matrix2D\Matrix2D\ConsoleApp1\obj\Debug\net8.0\Matrix2DConsoleApp.AssemblyInfoInputs.cache
+C:\Users\marci\OneDrive\Pulpit\projekty studia\Matrix2D\Matrix2D\ConsoleApp1\obj\Debug\net8.0\Matrix2DConsoleApp.AssemblyInfo.cs
+C:\Users\marci\OneDrive\Pulpit\projekty studia\Matrix2D\Matrix2D\ConsoleApp1\obj\Debug\net8.0\Matrix2DConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\marci\OneDrive\Pulpit\projekty studia\Matrix2D\Matrix2D\ConsoleApp1\obj\Debug\net8.0\Matrix2DConsoleApp.sourcelink.json
+C:\Users\marci\OneDrive\Pulpit\projekty studia\Matrix2D\Matrix2D\ConsoleApp1\obj\Debug\net8.0\Matrix2D.761D7AE7.Up2Date
+C:\Users\marci\OneDrive\Pulpit\projekty studia\Matrix2D\Matrix2D\ConsoleApp1\obj\Debug\net8.0\Matrix2DConsoleApp.dll
+C:\Users\marci\OneDrive\Pulpit\projekty studia\Matrix2D\Matrix2D\ConsoleApp1\obj\Debug\net8.0\refint\Matrix2DConsoleApp.dll
+C:\Users\marci\OneDrive\Pulpit\projekty studia\Matrix2D\Matrix2D\ConsoleApp1\obj\Debug\net8.0\Matrix2DConsoleApp.pdb
+C:\Users\marci\OneDrive\Pulpit\projekty studia\Matrix2D\Matrix2D\ConsoleApp1\obj\Debug\net8.0\Matrix2DConsoleApp.genruntimeconfig.cache
+C:\Users\marci\OneDrive\Pulpit\projekty studia\Matrix2D\Matrix2D\ConsoleApp1\obj\Debug\net8.0\ref\Matrix2DConsoleApp.dll

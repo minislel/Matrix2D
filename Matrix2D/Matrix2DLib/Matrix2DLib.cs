@@ -1,8 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
+using Newtonsoft.Json;
 
 namespace Matrix2DLib
 {
@@ -102,24 +104,28 @@ namespace Matrix2DLib
         {
             return new int[,] { { m.A, m.B }, { m.C, m.D } };
         }
-        public static Matrix2D Parse(string s)
+        public static Matrix2D Parse(string? input)
         {
-            s = s.Replace(" ", "");
-            if (s[0] != '[' || s[s.Length - 1] != ']')
+            
+            if (input == null) { throw new FormatException(); }
+                try
             {
-                throw new FormatException("[]");
+                int[][] jaggedArray = JsonConvert.DeserializeObject<int[][]>(input);
+                int[,] result = new int[jaggedArray.Length, jaggedArray[0].Length];
+                for (int i = 0; i < jaggedArray.Length; i++)
+                {
+                    for (int j = 0; j < jaggedArray[i].Length; j++)
+                    {
+                        result[i, j] = jaggedArray[i][j];
+                    }
+                }
+                return new Matrix2D(result[0,0], result[0,1], result[1,0], result[1,1]);
             }
-            string[] strings = s.Split(",");
-            if (strings.Length != 4 ) 
+            catch
             {
-                throw new FormatException("no commas");
+                throw new FormatException();
             }
-            foreach (string s2 in strings) 
-            {
-                s2.Replace("[", "");
-                s2.Replace("]", "");
-            }
-            return new Matrix2D(int.Parse(strings[0]), int.Parse(strings[1]), int.Parse(strings[2]), int.Parse(strings[3]));
+            
         }
 
 

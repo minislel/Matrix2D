@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "7Xw6UMatVr6iBdxkn9LZuE6QdQgvnYMEBGNAEb99W2SkUlV5uPjbHCSAby1JpdbwmZb0QLymRm13aGR55nKfmw==",
+  "dgSpecHash": "XWzN7v2Fp0hNlxpOWSNWnqI8LuTe1BR+0tKD7Kf7yUCbaR+pRlAqijZS2R0WQWI+4wHsohW5VD1Y9HS9Tds5Xg==",
   "success": true,
-  "projectFilePath": "D:\\Users\\marcin.swiderski\\Desktop\\Matrix2D\\Matrix2D\\ConsoleApp1\\Matrix2DConsoleApp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\marci\\OneDrive\\Pulpit\\projekty studia\\Matrix2D\\Matrix2D\\ConsoleApp1\\Matrix2DConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marci\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
